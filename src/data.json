@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "name": "Glorious Greenery",
+    "price": "47,043",
+    "detail": "New delhi, Civil Lines, New Delhi - North, Delhi NCR",
+    "image": "./images/r2.png"
+  },
+  {
+    "id": "2",
+    "name": "Earthy Luxury",
+    "price": "66,353",
+    "detail": " DLF Kings Court, Greater Kailash-2, GK II, New Delhi - South, Delhi NCR",
+    "image": "./images/r3.png"
+  },
+  {
+    "id": "3",
+    "name": "Modern Classic",
+    "price": "35,853",
+    "detail": "Khyber Pass, New Delhi - North, Delhi NCR",
+    "image": "./images/r2.png"
+  },
+  {
+    "id": "4",
+    "name": "Angular Beauty",
+    "price": "47,043",
+    "detail": "New kothi sale 9bhk 151yard, Sarvapriya Vihar, New Delhi - South, Delhi NCR",
+    "image": "./images/r3.png"
+  },
+  {
+    "id": "5",
+    "name": "Urban Utopia",
+    "price": "66,353",
+    "detail": "Sector 18 Dwarka, New Delhi - Dwarka, Delhi NCR",
+    "image": "./images/r2.png"
+  },
+  {
+    "id": "6",
+    "name": "Luxurious Curves",
+    "price": "35,853",
+    "detail": "Vasant Kunj, New Delhi - South, Delhi NCR",
+    "image": "./images/r3.png"
+  },
+  {
+    "id": "7",
+    "name": "Traditionally Modern",
+    "price": "35,853",
+    "detail": "Sultanpur, Sultanpur, New Delhi - South, Delhi NCR",
+    "image": "./images/r2.png"
+  },
+  {
+    "id": "8",
+    "name": "Green Acres",
+    "price": "35,853",
+    "detail": "Karol Bagh, New Delhi - Central, Delhi NCR",
+    "image": "./images/r3.png"
+  },
+  {
+    "id": "9",
+    "name": "Sunrise Villa",
+    "price": "47,043",
+    "detail": " Vikaspuri Block F, New Delhi - West, Delhi NCR",
+    "image": "./images/r2.png"
+  },
+  {
+    "id": "10",
+    "name": "Traditionally Modern",
+    "price": "47,043",
+    "detail": "C-block corner house, park facing, Defence Colony, New Delhi - South, Delhi NCR",
+    "image": "./images/r3.png"
+  }
+]
