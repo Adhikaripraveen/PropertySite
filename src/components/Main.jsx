@@ -35,7 +35,7 @@ const Main = () => {
         </div>
       </div>
       <div className="img-section">
-        <img src="./images/hero-image.png" alt="image of house" />
+        <img src="./images/hero-image.png" alt=" house" />
       </div>
     </div>
   );

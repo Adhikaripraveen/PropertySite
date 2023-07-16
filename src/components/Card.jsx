@@ -103,7 +103,7 @@ const Card = () => {
       slider.scrollLeft -= firstImgWidth;
       console.log(slider.scrollLeft);
 
-      if (slider.scrollLeft == 0) {
+      if (slider.scrollLeft === 0) {
         left.style.display = "none";
       } else {
         right.style.display = "block";
@@ -116,7 +116,7 @@ const Card = () => {
       {data.map((data, id) => {
         return (
           <div className="card" key={id}>
-            <img src={data.image} alt="image" />
+            <img src={data.image} alt="items" />
             <p className="price">
               <span>&#8377;</span>
               {data.price}

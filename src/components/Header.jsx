@@ -32,8 +32,6 @@ const Header = () => {
             <a href="#value">Our Values</a>
             <a href="#contact">Contact us</a>
             <a href="#start-section">Get Started</a>
-
-            <a href="#">Contact</a>
           </div>
         </div>
       )}

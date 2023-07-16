@@ -1,11 +1,11 @@
-import react, { useState } from "react";
+import React, { useState } from "react";
 import accordian_Data from "../accordian_Data";
 
 const Accordian = () => {
   const [show, setShow] = useState(null);
 
   const toggle = (key) => {
-    if (show == key) {
+    if (show === key) {
       setShow(null);
     } else {
       setShow(key);
@@ -18,11 +18,11 @@ const Accordian = () => {
           <div className="accordian-q">
             {data.question}
             <span key={data.id} onClick={() => toggle(key)}>
-              {show == key ? "-" : "+"}
+              {show === key ? "-" : "+"}
             </span>
           </div>
           {
-            <div className={show == key ? "a-show-answer" : "a-answer"}>
+            <div className={show === key ? "a-show-answer" : "a-answer"}>
               {data.answer}
             </div>
           }
